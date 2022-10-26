@@ -1,5 +1,0 @@
-Maximum Drive
-0 0 0
-1a6f 6 65afd 15s 1ssa 12 115
-
-if(int(input[i]) < 48|| int(input[i]) > 57 || i == input.length())

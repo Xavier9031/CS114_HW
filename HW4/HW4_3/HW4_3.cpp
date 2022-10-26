@@ -53,8 +53,8 @@ bool search(string input, string goal){
 	return false;
 }
 int main(){
-	string start = "RXXLRXRXL";
-	string end = "XRLXXRRLX";
+	string start = "XLLR";
+	string end = "LXLX";
 	bool ok = search(start,end);
 	if(ok){
 		cout << "OK" << endl;
